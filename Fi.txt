@@ -1,1 +1,2 @@
 This is First line
+$ git push <remote name>  <branch name>
