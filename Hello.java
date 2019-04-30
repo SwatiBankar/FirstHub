@@ -4,3 +4,7 @@ public class Hello {
 	System.out.println("Java");
 }
 }
+public int m1(String s)
+{
+
+}
